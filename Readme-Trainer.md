@@ -45,7 +45,7 @@ Login using the user created on Unix - u1/p
 
 # By Each Trainee
 ## Clone files
- - login terminal from jupyter and run below commands
+ - Open terminal from jupyter and run below commands
 ```
 pwd
 cd ~
