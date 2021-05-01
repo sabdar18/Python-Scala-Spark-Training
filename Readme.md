@@ -39,7 +39,7 @@ docker run -it -p 8080:8080 -p 8000:8000 -p 81:81 -p 8888:8888 atingupta2005/ubu
 apt update
 cd ~
 source myvirtualenv/bin/activate
-jupyterhub &
+nohup jupyterhub &
 Visit http://pythonvm.westus.cloudapp.azure.com:8000/hub/login
 Login using the user created on Unix - u1/p
 ```
