@@ -1,4 +1,3 @@
-# By Trainer
 ## Install Docker
 ```
 sudo apt -y update
@@ -44,9 +43,9 @@ Visit http://pythonvm.westus.cloudapp.azure.com:8000/hub/login
 Login using the user created on Unix - u1/p
 ```
 
-# By Trainee
+# By Each Trainee
 ## Clone files
-login terminal from jupyter and run below commands
+ - login terminal from jupyter and run below commands
 ```
 pwd
 cd ~
