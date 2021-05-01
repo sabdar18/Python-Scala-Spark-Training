@@ -1,3 +1,4 @@
+# By Trainer
 ## Install Docker
 ```
 sudo apt -y update
@@ -41,4 +42,14 @@ source myvirtualenv/bin/activate
 jupyterhub &
 Visit http://pythonvm.westus.cloudapp.azure.com:8000/hub/login
 Login using the user created on Unix - u1/p
+```
+
+# By Trainee
+## Clone files
+login terminal from jupyter and run below commands
+```
+pwd
+cd ~
+pwd
+git clone https://github.com/atingupta2005/Python-Scala-Spark-Training.git
 ```
