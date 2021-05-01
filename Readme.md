@@ -1,6 +1,5 @@
- - Visit http://pythonvm.westus.cloudapp.azure.com:8000/hub/login
- - Login using the user created on Unix - u1/p
-```
+Visit http://pythonvm.westus.cloudapp.azure.com:8000/hub/login
+Login using the user created on Unix - u1/p
 
 ## Clone files for each user - u?
  - login terminal from jupyter and run below commands
