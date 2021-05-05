@@ -1,0 +1,28 @@
+Install Python (Provide installer)
+	https://www.python.org/ftp/python/3.8.1/python-3.8.1.exe
+
+Create Virtual Environment (Follow windows instructions)
+	- python get-pip.py
+	- pip install virtualenv
+	- cd your_project
+	- virtualenv env
+	- \env\Scripts\activate.bat
+
+	- https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/
+
+Install Packages using Requirements.txt (Can copy paste from collegue)
+	- pip freeze > requirements.txt
+	- pip install -r requirements.txt
+
+Install Jupyter notebook
+	- pip3 install jupyter
+
+Copy Exsercises folder
+
+Run Jupyter Notebook
+	- jupyter notebook
+
+Close the Internet Explorer
+
+Open chrome and specify the URL in chrome
+
