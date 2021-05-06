@@ -8,3 +8,15 @@
 	
 ## pheonix python library
 	 - https://pypi.org/project/phoenixdb/
+
+## Virtual Env not working:
+ - Below command not working and throwing error:  "/usr/bin/python: No module named venv"
+```
+python -m venv ~/testenv
+```
+
+ - The reason is that python is pointing to version 2.7. We need to specify below command:
+```
+python3 -m venv ~/testenv
+```
+
