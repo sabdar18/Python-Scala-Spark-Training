@@ -34,7 +34,7 @@ man shellinaboxd
 ## Setup Python and Jupyter Hub using Docker
 ```
 docker pull atingupta2005/ubuntu_ml
-docker run -it -p 8080:8080 -p 8000:8000 -p 81:81 -p 8888:8888 atingupta2005/ubuntu_ml /bin/bash
+docker run -it -p 8080:8080 -p 8000:8000 -p 81:81 -p 8888:8888 -p 4040:4040 -p 4041:4041 -p 4042:4042 -p 18080:18080 -p 3306:3306 -p 8081:8081 -p 7077:7077 -p 6066:6066 -p 7337:7337  atingupta2005/ubuntu_python_spark_scala_ml /bin/bash
 apt update
 cd ~
 source myvirtualenv/bin/activate
