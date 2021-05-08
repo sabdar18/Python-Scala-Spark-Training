@@ -1,0 +1,28 @@
+2021-05-05 11:39:46,485:DEBUG:Pizza created: Sicilian ($18)
+2021-05-05 11:39:46,485:DEBUG:Made 5 Sicilian pizza(s)
+2021-05-05 11:39:46,485:DEBUG:Ate 4 pizza(s)
+2021-05-05 11:39:47,004:DEBUG:Pizza created: quattro formaggi ($16)
+2021-05-05 11:39:47,005:DEBUG:Made 2 quattro formaggi pizza(s)
+2021-05-05 11:39:47,005:DEBUG:Ate 2 pizza(s)
+2021-05-05 11:39:47,801:DEBUG:Hi
+2021-05-05 11:40:40,421:INFO:My log info
+2021-05-05 11:41:19,081:ERROR:My log info
+2021-05-05 11:44:42,243:DEBUG:Pizza created: Sicilian ($18)
+2021-05-05 11:44:42,244:DEBUG:Made 5 Sicilian pizza(s)
+2021-05-05 11:44:42,244:DEBUG:Ate 4 pizza(s)
+2021-05-05 11:44:42,974:DEBUG:Pizza created: quattro formaggi ($16)
+2021-05-05 11:44:42,975:DEBUG:Made 2 quattro formaggi pizza(s)
+2021-05-05 11:44:42,975:DEBUG:Ate 2 pizza(s)
+2021-05-05 11:44:43,490:DEBUG:Hi
+2021-05-05 11:44:44,049:DEBUG:My log
+2021-05-05 11:44:44,750:ERROR:My log info
+2021-05-05 11:45:26,164:ERROR:My log info
+2021-05-05 11:58:14,595:DEBUG:__init__:Pizza created: Sicilian ($18)
+2021-05-05 11:58:14,596:DEBUG:make:Made 5 Sicilian pizza(s)
+2021-05-05 11:58:14,596:DEBUG:eat:Ate 4 pizza(s)
+2021-05-05 11:58:15,767:DEBUG:__init__:Pizza created: quattro formaggi ($16)
+2021-05-05 11:58:15,768:DEBUG:make:Made 2 quattro formaggi pizza(s)
+2021-05-05 11:58:15,768:DEBUG:eat:Ate 2 pizza(s)
+2021-05-05 11:58:16,547:DEBUG:my_function:Hi
+2021-05-05 11:58:17,234:DEBUG:<module>:My log
+2021-05-05 11:58:18,038:ERROR:<module>:My log info
